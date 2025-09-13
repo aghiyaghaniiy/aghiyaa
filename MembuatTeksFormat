@@ -10,7 +10,7 @@
     </p> 
        Penggabungan format teks bisa di lakukan dengan menuliskan tag-tag yang 
        akan dipakai. Misalkan <b><u>tebal dan garis bawah</u><b>, maka kita
-       tinggal pakai tag <b>b</b> dan tag <b>u</b>.
+       tingg pakai tag <b>b</b> dan tag <b>u</b>.
     </p>
 </body>
-</html>  
+</html>
